@@ -26,8 +26,8 @@ Meaning the next equation has no integer solutions:
 $$ x^n + y^n = z^n $$
 ```
 
-The well known Pythagorean theorem $x^2 + y^2 = z^2$ was
-proved to be invalid for other exponents.
+The wel known Pythagorean theorem $x^2 + y^2 = z^2$ was
+proved to binvalid for other exponents.
 Meaning the next equation has no integer solutions:
 
 $$ x^n + y^n = z^n $$
