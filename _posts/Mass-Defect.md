@@ -1,3 +1,12 @@
+---
+title: Mass defect
+author: Tao He
+date: 2024-05-24
+category: Jekyll
+layout: post
+cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
+---
+
 $$E=mc^2$$
 E = energy
 m = mass
