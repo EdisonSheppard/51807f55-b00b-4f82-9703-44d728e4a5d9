@@ -1,7 +1,10 @@
 ---
-layout: page
-title: "PAGE-TITLE"
-permalink: /temp/temp
+title: Mass Defect
+author: Edison Sheppard
+date: 2024-11-12
+category: Jekyll
+layout: post
+mermaid: true
 ---
 
 $$E=mc^2$$
